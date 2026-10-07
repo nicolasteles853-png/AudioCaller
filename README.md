@@ -48,8 +48,8 @@ Desenvolvido para ser consumido por aplicativos Android criados com **Sketchware
 ## 🚀 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/nicolasteles853-png/AudioCaller.git
+cd AudioCaller
 npm install ws
 node server.js
 ```
@@ -164,6 +164,6 @@ Distribuído sob a licença **MIT**. Consulte o arquivo `LICENSE` para mais info
 
 <div align="center">
 
-Feito com ❤️ por **Seu Nome**
+Feito com ❤️ por **Nicolas**
 
 </div>
